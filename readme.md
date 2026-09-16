@@ -2,7 +2,7 @@
 
 | Team Member Name | Email Address       |
 |------------------|---------------------|
-| [Name 1]         | [Email 1]           |
+| Zhengyang Zhuang         | zzhuan13@engineering.upenn.edu          |
 
 **GitHub Repository URL:** 
 
